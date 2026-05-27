@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsalculate",
+        "uuid": 7567650,
+        "checksum": "ny38dj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
